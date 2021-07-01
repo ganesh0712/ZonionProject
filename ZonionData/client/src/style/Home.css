@@ -1,0 +1,48 @@
+body  {
+  
+    background-color: white;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    
+  font-family: Arial;
+  text-align: center
+  
+  
+  
+  }
+.mytable {
+
+  border: 10px solid rgb(180, 177, 177) ;
+  
+  border-collapse: collapse;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background: red;
+  transition: width 2s, height 2s;
+}
+
+img:hover {
+  width: 500px;
+  height: 418px;
+}
+
+    /* * {
+    background-color: rgb(0, 0, 0);
+  color: white;
+    box-sizing: border-box;
+    
+  font-family: Arial;
+  text-align: center;
+  }   */
+
+/* table {
+    border: thin;
+    border:solid;
+    width: 100%;
+    border-color: rgb(0, 0, 0);
+
+
+} */

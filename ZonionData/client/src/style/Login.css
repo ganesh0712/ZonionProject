@@ -1,0 +1,15 @@
+body {
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 730px;
+    font-family: Arial;
+ 
+  /* align-items: center; */
+  /* justify-content: center; */
+}
+
+.login-border {
+    
+                height:555 ;
+                width:500;
+}
